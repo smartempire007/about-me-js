@@ -1,3 +1,3 @@
 # Introduction To JavaScript
 
-### Click [Herer]( https://smartempire007.github.io/about-me-js/) for the github page
+### Click [Here]( https://smartempire007.github.io/about-me-js/) for the github page
